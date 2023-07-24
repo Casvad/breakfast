@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZDZU6PqAuIDaAD9IZ6z9znogRiIdsvc6Ld1VcBVZ9aqxfBSDw0PjPJQ7HDbngZxHqJ5FxQHCG/pUmTK9lTakQ==",
+  "success": true,
+  "projectFilePath": "/Users/carlossanchez/Documents/sumer/codeNET/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlossanchez/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
